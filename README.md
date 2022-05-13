@@ -1,9 +1,9 @@
-# Self-driving-car
+# vanilla javascript
 
-This is the code I wrote during the Self-driving car (no libraries) JavaScript course:
-<Link>
+ machine learning dan neural network sistem menjaga keselamatan saat mengemudikan mobil, menggunakan bahasa program javascript
+
   
-The code will appear as the course progresses and will be divided into parts as follows:
+ plan project:
   1. Car driving mechanics
   2. Road definition
   3. Artificial sensors
@@ -13,3 +13,11 @@ The code will appear as the course progresses and will be divided into parts as 
   7. Visualizing neural networks
   8. Optimizing neural networks
   9. Fine-tuning
+
+
+
+
+
+
+
+   
